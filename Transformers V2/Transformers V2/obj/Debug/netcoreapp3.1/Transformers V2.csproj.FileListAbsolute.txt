@@ -1,0 +1,79 @@
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.csprojAssemblyReference.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.AssemblyInfoInputs.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.AssemblyInfo.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.csproj.CoreCompileInputs.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.MvcApplicationPartsAssemblyInfo.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.RazorAssemblyInfo.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.RazorAssemblyInfo.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\appsettings.json
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.exe
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.deps.json
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.runtimeconfig.json
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.runtimeconfig.dev.json
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.Views.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Transformers V2.Views.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\staticwebassets\Transformers V2.StaticWebAssets.Manifest.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\staticwebassets\Transformers V2.StaticWebAssets.xml
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Transformers V2.styles.css
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.TagHelpers.input.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.TagHelpers.output.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.RazorCoreGenerate.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.RazorTargetAssemblyInfo.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.RazorTargetAssemblyInfo.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.Views.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.csproj.CopyComplete
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.dll
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.pdb
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Transformers V2.genruntimeconfig.cache
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddManufacture.cshtml.g.cs
+H:\ProgrammesVisualStudio\Projects\Transformers V2\Transformers V2\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddTransformer.cshtml.g.cs

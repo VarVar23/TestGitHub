@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Transformers_V2.Models.Transformer>
+@{
+    ViewBag.Title = "Все трансформаторы";
+}
+@*<a asp-action="AddTransformer">Добавить трансформатор</a>
+<a asp-action="AddManufacture">Добавить завод</a>*@
+<a asp-action="AddList">Добавить список заготовок в бд</a>
+<a asp-action="DeleteTransformer">Удалить последий элемент из бд</a>
+<table class="table">
+    <tr><td>Имя</td><td>Производитель</td></tr>
+    @foreach (var item in Model)
+    {
+        <tr><td>@item.Name</td><td>@item.Manufacture.Name</td></tr>
+    }
+</table>
